@@ -18,15 +18,15 @@
 
 ## ⚡ **Sobre Mí**
 
-> *"Curioso por todo aquello que se pueda aprender."*
+> [cite_start]*"Curioso por todo aquello que se pueda aprender."* [cite: 1, 2]
 
-Soy un **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** con sede en **Valencia, España**. Me considero una persona proactiva y resiliente, con una base sólida en programación orientada a objetos y desarrollo full-stack.
+[cite_start]Soy un **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** con sede en **Valencia, España**[cite: 2]. [cite_start]Me considero una persona proactiva y resiliente, con una base sólida en programación orientada a objetos y desarrollo de automatizaciones[cite: 2].
 
-Actualmente, estoy enfocado en profundizar mis conocimientos en **Inteligencia Artificial** y arquitecturas escalables, buscando oportunidades donde pueda aportar valor y seguir creciendo profesionalmente.
+[cite_start]Actualmente, estoy enfocado en aplicar mis conocimientos en entornos laborales dinámicos, aportando valor mediante soluciones tecnológicas eficientes y escalables[cite: 2].
 
-🔭 **Trabajando en:** Nuevas features para mis proyectos personales.  
-🌱 **Aprendiendo:** Automatizaciones con IA y profundizando en arquitecturas Cloud.  
-🤝 **Abierto a:** Colaboraciones en proyectos Open Source y ofertas Junior.
+🔭 **Trabajando en:** Nuevas funcionalidades para mis proyectos personales.  
+🌱 **Aprendiendo:** Automatizaciones con IA y arquitecturas Cloud.  
+[cite_start]🤝 **Abierto a:** Oportunidades como desarrollador junior y proyectos colaborativos[cite: 2].
 
 ---
 
@@ -34,25 +34,26 @@ Actualmente, estoy enfocado en profundizar mis conocimientos en **Inteligencia A
 
 <div align="center">
 
-### **Lenguajes Principales**
+### **Lenguajes de Programación**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### **Frameworks & Librerías**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### **Frameworks & Tecnologías**
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### **Bases de Datos & Herramientas**
+### **Herramientas & Herramientas**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -62,42 +63,28 @@ Actualmente, estoy enfocado en profundizar mis conocimientos en **Inteligencia A
 
 ### 📱 **Fredlelancer** - *Idle Runner Mobile Game*
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/AaronAparisi/Fredlelancer)
-![React Native](https://img.shields.io/badge/React_Native-Expo-61DAFB?style=flat-square&logo=react)
-![SQLite](https://img.shields.io/badge/SQLite-Data-07405E?style=flat-square&logo=sqlite)
 
-Juego móvil del género *Idle Runner* desarrollado con tecnologías híbridas modernas. Destaca por su sistema de progresión continua y animaciones fluidas.
+[cite_start]Juego móvil del género *Idle Runner* desarrollado con tecnologías híbridas modernas[cite: 1]. Destaca por su sistema de progresión continua y animaciones fluidas.
 
-✨ **Tech Highlights:**
-- **Core:** React Native + Expo Framework.
-- **Persistencia:** Gestión de datos y guardado local mediante `expo-sqlite`.
-- **UI/UX:** Animaciones complejas integradas con `lottie-react-native`.
+* [cite_start]**Tecnologías:** React Native, Expo, SQLite, Lottie[cite: 1].
 
 ---
 
 ### 🧩 **Enikami** - *Plataforma de Minijuegos Web*
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/AaronAparisi/Enikami)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=flat-square&logo=spring)
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react)
 
-Colección de minijuegos de lógica tipo *Wordle* con una arquitectura Full Stack robusta.
+[cite_start]Colección de minijuegos de lógica tipo *Wordle* con una arquitectura Full Stack robusta[cite: 1].
 
-✨ **Tech Highlights:**
-- **Arquitectura:** Cliente-Servidor desacoplada (REST API).
-- **Backend:** Java Spring Boot para la lógica de negocio.
-- **Frontend:** React para una interfaz reactiva y moderna.
+* [cite_start]**Tecnologías:** Java Spring Boot (Backend), React (Frontend)[cite: 1].
 
 ---
 
 ### ♠️ **Blackjack ES/FR** - *Simulador de Escritorio*
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-100000?style=flat-square&logo=github)](https://github.com/AaronAparisi/Blackjack-Es-Fr)
-![Java](https://img.shields.io/badge/Java-Desktop-ED8B00?style=flat-square&logo=openjdk)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb)
 
-Aplicación de escritorio clásica desarrollada en Java puro (Eclipse) que simula el juego de cartas Blackjack con soporte multiidioma.
+[cite_start]Aplicación de escritorio clásica desarrollada en Java que simula el juego de cartas Blackjack con soporte multiidioma[cite: 1].
 
-✨ **Tech Highlights:**
-- **Persistencia NoSQL:** Conexión a MongoDB.
-- **Internacionalización:** Soporte nativo para Español e Inglés/Francés.
+* [cite_start]**Tecnologías:** Java, MongoDB (Persistencia NoSQL)[cite: 1].
 
 ---
 
@@ -108,9 +95,8 @@ Aplicación de escritorio clásica desarrollada en Java puro (Eclipse) que simul
 | **Área** | **Habilidades** | **Nivel** |
 |----------|-----------------|-----------|
 | **Desarrollo Móvil** | React Native, Expo, Android | ⭐⭐⭐⭐⭐ |
-| **Backend & IA** | Spring Boot, Python, Java | ⭐⭐⭐⭐⭐ |
-| **Frontend Web** | React, HTML/CSS, JavaScript | ⭐⭐⭐⭐ |
-| **Game Dev & Motores** | Godot, C++, C# | ⭐⭐⭐⭐ |
+| **Backend & IA** | Spring Boot, Python, Java | ⭐⭐⭐⭐ |
+| **Frontend Web** | React, HTML/CSS, JavaScript | ⭐⭐⭐⭐⭐ |
 | **Bases de Datos** | MongoDB, MySQL, SQLite | ⭐⭐⭐⭐⭐ |
 | **Herramientas & Gestión** | Git, Linux, VS Code, Resolución de Problemas | ⭐⭐⭐⭐⭐ |
 
@@ -118,15 +104,50 @@ Aplicación de escritorio clásica desarrollada en Java puro (Eclipse) que simul
 
 ---
 
-## 📊 **Estadísticas GitHub**
+## 🌟 **¿Por Qué Elegirme?**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaronAparisi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aaron's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronAparisi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="180"/>
-</div>
+### 💡 **Innovación y Creatividad**
+- [cite_start]Desarrollo soluciones creativas para problemas complejos[cite: 2].
+- Siempre busco la manera más eficiente de implementar funcionalidades.
+- [cite_start]Pasión por aprender nuevas tecnologías y metodologías[cite: 2].
+
+### 🤝 **Trabajo en Equipo**
+- [cite_start]Experiencia comprobada en entornos colaborativos y de prácticas[cite: 2].
+- [cite_start]Excelentes habilidades de comunicación y actitud positiva[cite: 2].
+- [cite_start]Capacidad de adaptación a diferentes roles y responsabilidades[cite: 2].
+
+### 🎯 **Orientado a Resultados**
+- [cite_start]Todos mis proyectos están completamente funcionales y documentados[cite: 1].
+- [cite_start]Enfoque en la experiencia del usuario final y en la mejora continua[cite: 2].
+- Código limpio, mantenible y escalable.
+
+### 📚 **Aprendizaje Continuo**
+- [cite_start]Graduado en DAM con proyectos reales y funcionales[cite: 2].
+- Constantemente actualizándome con las últimas tendencias tecnológicas.
+- [cite_start]Mentalidad de crecimiento constante ante nuevos retos[cite: 2].
+
+---
+
+## 📈 **Actividad Reciente**
+
+- 🔄 Actualizando repositorios con mejores prácticas.
+- 📚 Aprendiendo nuevas tecnologías y frameworks.
+- 🤝 Colaborando en proyectos open source.
+- [cite_start]💼 Buscando oportunidades de desarrollo profesional[cite: 2].
 
 ---
 
 <div align="center">
-  <sub><i>¡Gracias por visitar mi perfil! Si te gustan mis proyectos, no dudes en dejar una ⭐</i></sub>
+
+## 📞 **¡Conectemos!**
+
+[cite_start]**Estoy buscando oportunidades profesionales como desarrollador junior** [cite: 2]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-aparisis-miralles/)
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronaparisi2005@gmail.com)
+
+---
+
+*¡Gracias por visitar mi perfil!*
+
 </div>
