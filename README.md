@@ -1,10 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=220&section=header&text=&fontSize=90" width="100%"/>
-
-<a href="https://github.com/AaronAparisi">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Hola+%F0%9F%91%8B+Soy+Aar%C3%B3n+Aparisi;Junior+Software+Developer+%F0%9F%9A%80;Tech+Enthusiast+%26+Maker+%F0%9F%9B%A0%EF%B8%8F;Curioso+por+Aprender+M%C3%A1s" alt="Typing SVG" />
-</a>
+<h1>👋 ¡Hola! Soy Aarón Aparisi Miralles</h1>
+<h3>🚀 Junior Software Developer | Técnico Superior DAM</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/aaron-aparisis-miralles/">
@@ -33,34 +30,29 @@ Actualmente, estoy enfocado en profundizar mis conocimientos en **Inteligencia A
 
 ---
 
-## 🛠️ **Arsenal Tecnológico**
+## 🛠️ **Stack Tecnológico**
 
 <div align="center">
 
-### **Core & Lenguajes**
+### **Lenguajes Principales**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### **Frontend & Mobile**
+### **Frameworks & Librerías**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### **Backend & Bases de Datos**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### **Bases de Datos & Herramientas**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### **Herramientas & Otros**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -79,7 +71,6 @@ Juego móvil del género *Idle Runner* desarrollado con tecnologías híbridas m
 - **Core:** React Native + Expo Framework.
 - **Persistencia:** Gestión de datos y guardado local mediante `expo-sqlite`.
 - **UI/UX:** Animaciones complejas integradas con `lottie-react-native`.
-- **Media:** Gestión de audio y assets optimizada.
 
 ---
 
@@ -92,9 +83,8 @@ Colección de minijuegos de lógica tipo *Wordle* con una arquitectura Full Stac
 
 ✨ **Tech Highlights:**
 - **Arquitectura:** Cliente-Servidor desacoplada (REST API).
-- **Backend:** Java Spring Boot para la lógica de negocio y validación de palabras.
+- **Backend:** Java Spring Boot para la lógica de negocio.
 - **Frontend:** React para una interfaz reactiva y moderna.
-- **Diseño:** Experiencia de usuario fluida y responsive.
 
 ---
 
@@ -106,9 +96,25 @@ Colección de minijuegos de lógica tipo *Wordle* con una arquitectura Full Stac
 Aplicación de escritorio clásica desarrollada en Java puro (Eclipse) que simula el juego de cartas Blackjack con soporte multiidioma.
 
 ✨ **Tech Highlights:**
-- **Persistencia NoSQL:** Conexión a MongoDB para registro de partidas/usuarios.
+- **Persistencia NoSQL:** Conexión a MongoDB.
 - **Internacionalización:** Soporte nativo para Español e Inglés/Francés.
-- **Lógica:** Implementación robusta de reglas de juego y POO.
+
+---
+
+## 🎯 **Competencias Profesionales**
+
+<div align="center">
+
+| **Área** | **Habilidades** | **Nivel** |
+|----------|-----------------|-----------|
+| **Desarrollo Móvil** | React Native, Expo, Android | ⭐⭐⭐⭐⭐ |
+| **Backend & IA** | Spring Boot, Python, Java | ⭐⭐⭐⭐⭐ |
+| **Frontend Web** | React, HTML/CSS, JavaScript | ⭐⭐⭐⭐ |
+| **Game Dev & Motores** | Godot, C++, C# | ⭐⭐⭐⭐ |
+| **Bases de Datos** | MongoDB, MySQL, SQLite | ⭐⭐⭐⭐⭐ |
+| **Herramientas & Gestión** | Git, Linux, VS Code, Resolución de Problemas | ⭐⭐⭐⭐⭐ |
+
+</div>
 
 ---
 
@@ -122,9 +128,5 @@ Aplicación de escritorio clásica desarrollada en Java puro (Eclipse) que simul
 ---
 
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100&section=footer" width="100%"/>
-  
   <sub><i>¡Gracias por visitar mi perfil! Si te gustan mis proyectos, no dudes en dejar una ⭐</i></sub>
-
 </div>
